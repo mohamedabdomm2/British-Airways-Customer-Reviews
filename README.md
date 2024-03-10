@@ -1,18 +1,19 @@
 # British-Airways
-scarping British Airways reviews and collecting customer feedback by analyzing third-party data./n
-## The steps For Making a good analysis \n
-preprocessing:/n
-Lowercase: Convert all text to lowercase for consistency./n
-Punctuation Removal.
-Stop Word Removal.
-Lemmatization.
-Handling Missing Values
+scarping British Airways reviews and collecting customer feedback by analyzing third-party data.
+## The steps For Making a good analysis 
+preprocessing:<br>
+Lowercase: Convert all text to lowercase for consistency.<br>
+Punctuation Removal.<br>
+Stop Word Removal.<br>
+Lemmatization.<br>
+Handling Missing Values<br>
 
-Data Analysis:
-Now you have a cleaner dataset ready for analysis. Here are some options you can consider:
-Sentiment Analysis
+Data Analysis:<br>
+Now you have a cleaner dataset ready for analysis. Here are some options you can consider:<br>
 
-Topic Modeling
+Sentiment Analysis<br>
 
-Word Clouds:
+Topic Modeling<br>
+
+Word Clouds<br>
 
