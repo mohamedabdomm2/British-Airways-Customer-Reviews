@@ -1,8 +1,8 @@
 # British-Airways
-scarping British Airways reviews and collecting customer feedback by analyzing third-party data.
-## The steps For Making a good analysis 
-preprocessing:
-Lowercase: Convert all text to lowercase for consistency.
+scarping British Airways reviews and collecting customer feedback by analyzing third-party data.\n
+## The steps For Making a good analysis \n
+preprocessing:\n
+Lowercase: Convert all text to lowercase for consistency.\n
 Punctuation Removal.
 Stop Word Removal.
 Lemmatization.
