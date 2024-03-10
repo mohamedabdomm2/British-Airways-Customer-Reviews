@@ -6,14 +6,14 @@ Lowercase: Convert all text to lowercase for consistency.<br>
 Punctuation Removal.<br>
 Stop Word Removal.<br>
 Lemmatization.<br>
-Handling Missing Values<br>
+Handling Missing Values.<br>
 
 Data Analysis:<br>
 Now you have a cleaner dataset ready for analysis. Here are some options you can consider:<br>
 
-Sentiment Analysis<br>
+Sentiment Analysis.<br>
 
-Topic Modeling<br>
+Topic Modeling.<br>
 
-Word Clouds<br>
+Word Clouds.<br>
 
